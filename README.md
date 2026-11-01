@@ -1,34 +1,42 @@
-# ☕ Java Programming Practice
+# Java Programming Practice
 
-A collection of Java practice programs built while learning core programming and object-oriented concepts.
+<p align="center"><img src="assets/java-practice-banner.svg" alt="Java Programming Practice banner" width="100%" /></p>
 
-## 📚 Focus Areas
+<p align="center"><strong>A home for Java fundamentals, OOP exercises and problem-solving practice.</strong></p>
 
-- Java fundamentals
-- Classes and objects
-- Methods and constructors
-- Control flow
+## Intended topics
+
+- Java syntax, variables and data types
+- Conditions, loops and methods
 - Arrays and strings
+- Classes, objects and constructors
 - Object-oriented programming
-- Problem solving
+- Collections and exception handling
 
-## 🎯 Purpose
+## Current repository status
 
-This repository records hands-on Java learning and provides small, focused examples that can be used for revision and interview preparation.
+This repository currently contains its project overview only; Java source files have not yet been added. Add each exercise as a clearly named `.java` file and include a short explanation and sample output.
 
-## 🛠️ Tech Stack
+## Suggested layout
 
-- Java
-- Java Standard Library
-- Eclipse IDE
-- Git & GitHub
+```text
+repo04/
+├── assets/
+│   └── java-practice-banner.svg
+├── basics/
+├── arrays/
+├── strings/
+├── oop/
+└── README.md
+```
 
-## 🚀 Roadmap
+## Run a future example
 
-The next stage is to organize larger Java applications separately and continue with collections, exception handling, file handling, JDBC and Spring Boot.
+```bash
+javac Example.java
+java Example
+```
 
-## 👨‍💻 Developer
+## Maintainer
 
-**Anurag Chaurasiya**
-
-GitHub: https://github.com/anuragchaurasiya
+[Anurag Chaurasiya](https://github.com/anuragchaurasiya)

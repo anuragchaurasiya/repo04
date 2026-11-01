@@ -4,7 +4,11 @@
 
 <p align="center"><strong>A home for Java fundamentals, OOP exercises and problem-solving practice.</strong></p>
 
-## Intended topics
+## Concepts Used
+
+No Java concepts are implemented in this repository yet because it currently contains no Java source files. The topics below are planned learning areas, not completed examples.
+
+## Planned topics
 
 - Java syntax, variables and data types
 - Conditions, loops and methods
@@ -15,7 +19,7 @@
 
 ## Current repository status
 
-This repository currently contains its project overview only; Java source files have not yet been added. Add each exercise as a clearly named `.java` file and include a short explanation and sample output.
+This repository currently contains its project overview and banner only; Java source files have not yet been added. Add each exercise as a clearly named `.java` file and include a short explanation and sample output.
 
 ## Suggested layout
 
